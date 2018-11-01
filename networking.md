@@ -1,3 +1,7 @@
+---
+title: SomeStuff
+---
+
 # Networking
 **Networking** (n): the establishment or use of a computer network.
 ## Why isn't this normal DMX?
@@ -12,5 +16,4 @@ This is totally different from normal DMX cabling and we need to think of them a
 
 ## What's the TCP/IP protocol stack? Heck, what's the internet?
 
-The TCP/IP protocol stack is a set of protocols by which computers on the internet talk to eachother. 
-
+The TCP/IP protocol stack is a set of protocols by which computers on the internet talk to eachother.
