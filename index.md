@@ -2,6 +2,7 @@
 layout: default
 ---
 
-# Hello
+# Table of Contents
 
-This is a placeholder right now. If you want to see the networking page I was working on, look [here](/networking).
+- [TCP/IP stack and networking background](/networking)
+- [Networking with the Ion](/ion_networking)
