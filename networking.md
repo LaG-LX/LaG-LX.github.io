@@ -1,5 +1,5 @@
 ---
-title: SomeStuff
+layout: default
 ---
 
 # Networking

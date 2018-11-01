@@ -1,17 +1,7 @@
 ---
-title: LaGuardia LX
 layout: default
 ---
-# Hello World
 
-This is a test
+# Hello
 
-- this
-- is
-- a
-- bullet
-- list
-
-### and an image
-
-![some image](/assets/networking_dmx_only.png)
+This is a placeholder right now. If you want to see the networking page I was working on, look [here](/networking).
